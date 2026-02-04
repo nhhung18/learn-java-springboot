@@ -15,9 +15,9 @@ public class GameRunner {
 //        game.right();
 //    }
 
-    SuperContraGame game;
+    GamingConsole game;
 
-    public GameRunner(SuperContraGame game) {
+    public GameRunner(GamingConsole game) {
         this.game = game;
     }
 
